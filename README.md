@@ -1,2 +1,4 @@
-# calculator
+# calcAI
 AI Prac Project
+
+
