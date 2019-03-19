@@ -12,11 +12,11 @@ expression. If a user drew "2 + 2" the program would print "4" and similarily fo
 
 ## How to use
 Do the following steps:
-	1. Clone the repository
-	2. Download all the dependencies
-	3. Run the command `python gui.py`
-    4. Draw an image
-    5. Click on "Evaluate expression"
+-  Clone the repository
+- Download all the dependencies
+- Run the command `python gui.py`
+- Draw an image
+- Click on "Evaluate expression"
 
 ## External Dependencies
 - Keras
